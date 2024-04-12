@@ -17,6 +17,7 @@ global:
       icingaweb:
         password: 
           value: "CHANGE-ME"
+
   databases:
     director: 
       password: 
@@ -25,5 +26,6 @@ global:
       password: 
         value: "CHANGE-ME"
     icingadb:
+      username: "icinga"
       password: 
         value: "CHANGE-ME"
