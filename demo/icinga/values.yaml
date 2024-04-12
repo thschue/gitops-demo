@@ -25,6 +25,8 @@ global:
       password: 
         value: "CHANGE-ME"
     icingaweb2:
+      username: 
+        value: "icinga"
       password: 
         value: "CHANGE-ME"
     icingadb:
