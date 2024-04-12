@@ -26,6 +26,7 @@ global:
       password: 
         value: "CHANGE-ME"
     icingadb:
-      username: "icinga"
+      username: 
+        value: "icinga"
       password: 
         value: "CHANGE-ME"
