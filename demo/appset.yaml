@@ -34,4 +34,3 @@ spec:
         automated: {}
         syncOptions:
           - CreateNamespace=true
-          - ServerSideApply={{ serverSideApply }}

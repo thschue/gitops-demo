@@ -1,0 +1,3 @@
+repoURL: https://open-telemetry.github.io/opentelemetry-helm-charts
+targetRevision: 0.30.1
+chart: otel-demo
