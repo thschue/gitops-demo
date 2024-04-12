@@ -34,3 +34,8 @@ global:
         value: "icinga"
       password: 
         value: "CHANGE-ME"
+    kubernetes:
+      username:
+        value: "icinga"
+      password:
+        value: "CHANGE-ME"
