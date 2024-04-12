@@ -4,7 +4,7 @@ icinga2:
 
 icingaweb2:
   auth:
-    admin_password: CHANGE-ME
+    admin_password: "CHANGE-ME"
 
 global:
   api:
