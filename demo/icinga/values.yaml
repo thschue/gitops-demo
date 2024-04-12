@@ -1,0 +1,29 @@
+icinga2:
+  config:
+    ticket_salt: 
+      value: "CHANGE-ME"
+
+icingaweb2:
+  auth:
+    admin_password: 
+      value: "CHANGE-ME"
+
+global:
+  api:
+    users: 
+      director: 
+        password: 
+          value: "CHANGE-ME"
+        icingaweb:
+          value: 
+            password: "CHANGE-ME"
+  databases:
+    director: 
+      password: 
+        value: "CHANGE-ME"
+    icingaweb2:
+      password: 
+        value: "CHANGE-ME"
+    icingadb:
+      password: 
+        value: "CHANGE-ME"
