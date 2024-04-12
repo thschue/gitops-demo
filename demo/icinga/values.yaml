@@ -15,8 +15,8 @@ global:
         password: 
           value: "CHANGE-ME"
         icingaweb:
-          value: 
-            password: "CHANGE-ME"
+          password: 
+            value: "CHANGE-ME"
   databases:
     director: 
       password: 
