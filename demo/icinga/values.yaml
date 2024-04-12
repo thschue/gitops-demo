@@ -11,8 +11,8 @@ global:
     users: 
       director: 
         password: "CHANGE-ME"
-      icingaweb:
-        password: "CHANGE-ME"
+        icingaweb:
+          password: "CHANGE-ME"
   databases:
     director: 
       password: "CHANGE-ME"
