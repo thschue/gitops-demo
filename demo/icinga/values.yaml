@@ -20,6 +20,8 @@ global:
 
   databases:
     director: 
+      username: 
+        value: "icinga"
       password: 
         value: "CHANGE-ME"
     icingaweb2:
