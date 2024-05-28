@@ -5,5 +5,3 @@ controller:
     annotations:
       service.beta.kubernetes.io/azure-load-balancer-internal: "true"
       service.beta.kubernetes.io/azure-load-balancer-internal-subnet: "ass-dt-we-008-vnet-01"
-
-controller.service.annotations
