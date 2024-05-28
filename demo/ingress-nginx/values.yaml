@@ -1,3 +1,6 @@
 controller:
   ingressClassResource:
     default: true
+  service:
+    annotations:
+      service.beta.kubernetes.io/azure-load-balancer-internal: "true"
