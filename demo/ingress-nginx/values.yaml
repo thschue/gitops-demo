@@ -1,5 +1,0 @@
-controller:
-  ingressClassResource:
-    default: true
-  service:
-    type: NodePort
