@@ -8,4 +8,4 @@ spec:
   containers:
   - image: dockerhub.repo.kapschtraffic.com/nginx
     name: nginx
-  restartPolicy: Always
+  restartPolicy: Never
